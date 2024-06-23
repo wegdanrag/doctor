@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    height: 5000px;
+}
+ /* start header */
+.header{
+    background-image: url(../img/download.jpg);
+    height: 700px;
+    background-size:cover;
+
+   
+}
+
+.nav-link{
+    color: white !important;
+    font-family: cursive;
+   
+    font-size: 24px;
+    margin-right: 20px;
+
+}
+ .button-header{
+    background-color: #ed7c6a;
+    color: white;
+  
+ }
+
+
+ .textheader{
+ background-color:#6dab94ae ;
+ border-radius: 8px;
+    margin-top: 150px;
+    margin-left: 185px;
+   
+ }
+ .textheader:hover{
+    background-color: #3c5e51;
+ }
+ .textheader h2{
+    color: white;
+    font-family: cursive;
+    line-height: 1.5;
+    font-size: 49px;
+ }
+ /* end header */
+
+ /* start section clinic-doctor */
+.title-clinc{
+    font-size:30px;
+    font-family: cursive;
+    color: #478798;
+    text-align: center;
+}
+hr{
+    height: 3px;
+    width: 181px;
+    text-align: center;
+    margin: auto;
+    color: #e98317
+    
+}
+.contant-cilinc{
+    margin-top: 155px;
+    font-family:cursive;
+}
+.contant-cilinc h3{
+color:#74a3a2;
+}
+
+ 
+ 
+ /*end section clinic-doctor */
